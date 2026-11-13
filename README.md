@@ -1,31 +1,38 @@
-# Hi, I'm Gopal Rajane
+# Gopal Rajane
 
-IT Undergraduate at VIT Pune | Machine Learning Enthusiast
+IT student at VIT Pune focused on machine learning and data science. I build practical projects around data analysis, predictive modeling, and applied AI, with an emphasis on clear workflows and reproducible experimentation.
 
-I'm a hands-on, project-driven learner building practical machine learning solutions — from data preprocessing to model evaluation. I enjoy understanding problems end-to-end rather than just getting a model to run.
+## Currently
 
-## Currently Working On
-
-- Building and refining end-to-end ML pipelines (classification & regression) using real-world datasets
-- Strengthening my understanding of model evaluation, preprocessing, and feature engineering
-- Growing a portfolio of well-documented machine learning projects on GitHub
+- Developing a deeper foundation in machine learning and data science
+- Preparing for Google Summer of Code 2027
+- Building a portfolio for off-campus Data Science and AI roles
 
 ## Tech Stack
 
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![scikit--learn](https://img.shields.io/badge/-scikit--learn-black?style=flat-square&logo=scikitlearn)
-![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas)
-![Jupyter](https://img.shields.io/badge/-Jupyter-black?style=flat-square&logo=jupyter)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visualstudiocode)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## Projects
+## Featured Projects
 
-- **[Predictive Maintenance Pipeline](#)** — Full ML pipeline comparing five classification models (Logistic Regression, Decision Tree, Random Forest, KNN, and a boosting model) on sensor data; selected the best model based on Recall and ROC-AUC.
-- **[Credit Delinquency Prediction](#)** — Exploratory data analysis and classification model to predict credit account delinquency.
-- **[House Price Prediction](#)** — Regression model for housing price estimation with feature engineering and model tuning.
-- **[Titanic Survival Prediction](#)** — Classic binary classification project with a deployed live demo.
+| Project | Description |
+|---|---|
+| [Machine Learning Projects](https://github.com/gopalrajane/machine-learning-projects) | A portfolio of hands-on ML work, including Titanic classification, housing regression, credit delinquency prediction, and predictive maintenance. |
+| [Intelligent Log Analysis & Intrusion Response](https://github.com/gopalrajane/intrusion-detection) | A C++ educational system that parses login logs, detects brute-force patterns, prioritizes threats, and simulates blocking. |
+| [StepForge Multilingual Voice AI](https://github.com/gopalrajane/StepForge-Multilingual-Voice-AI) | A voice service prototype for transcription, translation, and speech synthesis across languages. |
+| [AI Job Search Assistant](https://github.com/gopalrajane/ai-job-search-assistant) | A multi-agent platform concept for resume analysis, job matching, and interview preparation. |
 
-## Connect With Me
+## GitHub Stats
 
-[LinkedIn](https://www.linkedin.com/in/gopal-rajane/)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=gopalrajane&show_icons=true&hide_title=true&theme=default)
+
+![GitHub streak](https://streak-stats.demolab.com?user=gopalrajane&theme=default)
+
+## Contact
+
+- [LinkedIn](https://www.linkedin.com/in/gopal-rajane/)
+- [GitHub](https://github.com/gopalrajane)
